@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root 'appointments/index'
+  root 'appointments#index'
 end
